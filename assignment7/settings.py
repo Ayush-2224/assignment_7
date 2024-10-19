@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'assignment7.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'project_7',       
-        'USER': 'root',             
-        'PASSWORD': 'Ayush2224@',         
-        'HOST': 'localhost',              
+        'NAME': 'if0_37547886_project_7',       
+        'USER': 'if0_37547886t',             
+        'PASSWORD': 'u0rZTpD7QfddB2a',         
+        'HOST': 'sql113.infinityfree.com',              
         'PORT': '3306',                      
     }
 }
